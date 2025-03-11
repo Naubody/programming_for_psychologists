@@ -98,7 +98,7 @@ However, learning a new (programming) language takes **practice and time**, more
 - **[Automate the Boring Stuff](https://automatetheboringstuff.com/)** – Great for beginners who want to learn Python basics.  
 - **[The Good Research Handbook](https://goodresearch.dev/)** – Covers coding best practices with a focus on research.  
 - **[Harvard CS50 Python Course](https://cs50.harvard.edu/python/)** – A more comprehensive Python course.  
-- **[Python for Neuroscientists (eLife)]([https://elifesciences.org/articles/53222](https://elifesciences.org/labs/f779833b/python-for-the-practicing-neuroscientist-an-online-educational-resource))** – A useful resource for practicing neuroscientists.  
+- **[Python for Neuroscientists (eLife)](https://elifesciences.org/labs/f779833b/python-for-the-practicing-neuroscientist-an-online-educational-resource)** – A useful resource for practicing neuroscientists.  
 
 All of these resources are **free and online**.  
 
