@@ -4,32 +4,24 @@
 **Teaching Assistant:** Anna van Harmelen  
 **Contact:** [m.nau@vu.nl](mailto:m.nau@vu.nl)  
 
-This repository contains the course materials for the course **"Programming for Psychologists"** at the Vrije Universiteit Amsterdam (**P_MPROPSY**). This **6 EC** course is going to teach you your new superpower: **Programming in Python!**  
+This repository contains the course materials for the course **"Programming for Psychologists"** (P_MPROPSY) at the **Vrije Universiteit Amsterdam**. This 6 EC course is going to teach you your new superpower: **Programming in Python!**  
 
-Over the course of **2 months**, you will start thinking like a programmer and learn how to use Python for **experimental design, data analysis, and visualization**. You will get to know many essential **concepts, data structures, and libraries** relevant to research in **cognitive neuroscience**, and develop a solid foundation for further learning.  
+Over the course of 2 months, you will start thinking like a programmer and learn how to use Python for **experimental design, data analysis, and visualization**. You will get to know many **essential concepts, data structures, and libraries** relevant to research in **cognitive neuroscience**, and develop a solid foundation for further learning.
 
 In addition, you will learn what it means to **write and share code** in the spirit of **Open Science**, how to **review other people's code**, and how to ensure your research is **reproducible, accessible, and transparent**.  
 
-<img src="https://github.com/user-attachments/assets/5a125f50-0db8-4181-8cfe-5347f8c9e0a8" alt="Course Image" width="400" height="400"/>
+<img src="https://github.com/user-attachments/assets/5a125f50-0db8-4181-8cfe-5347f8c9e0a8" alt="Course Image" width="300" height="300"/>
 
 ---
 
 ## **Course structure**  
-The course is organized into **7 modules**, each comprising a **lecture and two practicals**. Each module will focus on a different topic. All lectures and practicals will be **in person**. Lectures may be recorded.  
+The course is organized into **7 modules**, each comprising a **lecture** (1.5h) and **two practicals** (~2.5h each). Each module will focus on a different topic.
 
 ## **Lectures**  
 Lectures will focus on **conceptual understanding**. You will learn **why programming is important for psychologists**, what **Python** is, and how it can support your research. We will further discuss **coding best practices** and principles of **Open Science**.  
 
-**Location:** Room MF-A611  
-**Schedule:** Every other Monday, 3:30-5:15 PM  
-
 ## **Practicals**  
-Practicals will focus on **skills**. You will learn how to **write code in Python** to perform **basic operations, design simple experiments, and analyze and visualize data**. Moreover, you will learn how to use **GitHub** for version control and sharing your code.  
-
-**Location & Schedule:**  
-- **Monday:** Room HG-11A22, 3:00 PM  
-- **Wednesday:** Room OZW-4A05, 10:00 AM  
-- Each session lasts **2-2.5 hours**  
+Practicals will focus on **skills**. You will learn how to **write code in Python** to perform **basic operations, design simple experiments, and analyze and visualize data**. Moreover, you will learn how to use **GitHub** for version control and sharing code.  
 
 ---
 
@@ -43,17 +35,17 @@ Practicals will focus on **skills**. You will learn how to **write code in Pytho
 ### **Module 2: Python**  
 - **Lecture 2:** Python  
 - **Practical 2.1:** Basics  
-- **Practical 2.2:** More basics & debugging  
+- **Practical 2.2:** Debugging & More basics
 
-### **Module 3: Data visualization**  
-- **Lecture 3:** Data visualization  
-- **Practical 3.1:** Matplotlib  
-- **Practical 3.2:** Plot your own data  
+### **Module 3: Python advanced**  
+- **Lecture 3:** Functions  
+- **Practical 3.1:** Python advanced  
+- **Practical 3.2:** ASCII Art
 
-### **Module 4: Python advanced**  
-- **Lecture 4:** Functions  
-- **Practical 4.1:** Python advanced  
-- **Practical 4.2:** ASCII Art  
+### **Module 4: Data visualization**  
+- **Lecture 4:** Data visualization  
+- **Practical 4.1:** Matplotlib  
+- **Practical 4.2:** Plot your own data  
 
 ### **Module 5: Open Science & Collaboration**  
 - **Lecture 5:** Git & GitHub  
@@ -66,14 +58,14 @@ Practicals will focus on **skills**. You will learn how to **write code in Pytho
 - **Practical 6.2:** Setting up log-files  
 
 ### **Module 7: Course recap**  
-- **Lecture 7:** Recap & workflow  
+- **Lecture 7:** Recap & Workflow  
 - **Practical 7.1:** Data analysis basics  
 - **Practical 7.2:** Home assignment  
 
 ### **End of the course**  
 - **Q&A session**  
 - **Home assignment**  
-- **Exam**  
+- **Exam**
 
 ---
 
@@ -82,9 +74,9 @@ The main assignment of this course will be **writing code for simple data analys
 
 You will write this code in your **own time**, along with a **brief statement** about the best practices it follows and how. You will upload this code to **GitHub**, where **other students will comment on it** as part of a **code review**. You will also be asked to review other students' code.  
 
-More information will follow in **November**.  
+Find more information about the home assignment [here](LINKmissing).
 
-**The home assignment will determine 65% of your grade.**  
+**The home assignment will determine 60% of your grade.**  
 
 ---
 
@@ -92,9 +84,9 @@ More information will follow in **November**.
 At the end of the course, you will take an **exam**, where you will:  
 - Receive **code snippets** and answer questions about them  
 - Answer **conceptual questions** based on lecture and practical content  
-- Solve a mix of **open-ended and multiple-choice questions**  
+- Solve a mix of **open-ended and multiple-choice questions**
 
-**The outcome of the exam will determine 35% of your grade.**  
+**The outcome of the exam will determine 40% of your grade.**  
 
 ---
 
