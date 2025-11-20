@@ -10,7 +10,7 @@ Over the course of 2 months, you will start thinking like a programmer and learn
 
 In addition, you will learn what it means to **write and share code** in the spirit of **Open Science**, how to **review other people's code**, and how to ensure your research is **reproducible, accessible, and transparent**.  
 
-<img src="https://github.com/user-attachments/assets/5a125f50-0db8-4181-8cfe-5347f8c9e0a8" alt="Course Image" width="300" height="300"/>
+<img width="450" height="591" alt="Screenshot 2025-11-20 at 14 07 09" src="https://github.com/user-attachments/assets/bec15545-5d24-4bfd-922d-aa3961701d9e" />
 
 ---
 
@@ -92,6 +92,8 @@ At the end of the course, you will take an **exam**, where you will:
 
 ## **How to become an expert P(s)ychologist**  
 This course aims to provide an **overview** of the many aspects that make a **good programmer**, focusing on **typical workflows of research psychologists using Python**.  
+
+<img src="https://github.com/user-attachments/assets/5a125f50-0db8-4181-8cfe-5347f8c9e0a8" alt="Course Image" width="300" height="300"/>
 
 However, learning a new (programming) language takes **practice and time**, more than this course can offer. To **grow beyond the course** and become an expert, check out the following **resources** meant to help you **practice at home**:  
 
