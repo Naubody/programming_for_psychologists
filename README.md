@@ -30,37 +30,37 @@ Practicals will focus on **skills**. You will learn how to **write code in Pytho
 
 ### **Module 1: Introduction**  
 - **Lecture 1:** Welcome  
-- **Practical 1.1:** Mindset  
+- **Practical 1.1:** Programming Mindset  
 - **Practical 1.2:** Setup  
 
 ### **Module 2: Python**  
-- **Lecture 2:** Python  
-- **Practical 2.1:** Basics  
-- **Practical 2.2:** Debugging & More basics
+- **Lecture 2:** Introduction to Python  
+- **Practical 2.1:** Python basics  
+- **Practical 2.2:** Debugging & more basics
 
 ### **Module 3: Python advanced**  
-- **Lecture 3:** Functions  
+- **Lecture 3:** Functions, Data, Debugging
 - **Practical 3.1:** Python advanced  
-- **Practical 3.2:** ASCII Art
+- **Practical 3.2:** Functions & ASCII Art
 
 ### **Module 4: Data visualization**  
-- **Lecture 4:** Data visualization  
+- **Lecture 4:** DataViz basics, Matplotlib, Seaborn
 - **Practical 4.1:** Matplotlib  
 - **Practical 4.2:** Plot your own data  
 
 ### **Module 5: Open Science & Collaboration**  
 - **Lecture 5:** Git & GitHub  
-- **Practical 5.1:** GitHub  
-- **Practical 5.2:** Copilot & AI-assisted coding  
+- **Practical 5.1:** GitHub & Copilot
+- **Practical 5.2:** AI-assisted coding  
 
 ### **Module 6: Experiments**  
 - **Lecture 6:** Psychopy  
-- **Practical 6.1:** Build a basic experiment  
-- **Practical 6.2:** Setting up log-files  
+- **Practical 6.1:** Build a basic experiment
+- **Practical 6.2:** Experimental log files
 
 ### **Module 7: Course recap**  
-- **Lecture 7:** Recap & Workflow  
-- **Practical 7.1:** Data analysis  
+- **Lecture 7:** Recap & Typical Workflow  
+- **Practical 7.1:** Data analysis
 - **Practical 7.2:** Home assignment  
 
 ### **End of the course**  
