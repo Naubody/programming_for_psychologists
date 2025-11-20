@@ -73,11 +73,7 @@ Practicals will focus on **skills**. You will learn how to **write code in Pytho
 ## **Grading**
 
 ### **Home assignment**  
-The main assignment of this course will be **writing code for simple data analysis and visualization of magnetic resonance imaging (MRI) data**.
-
-You will write this code in your **own time**, along with a **brief statement** about the best practices it follows and how. You will upload this code to **GitHub**, where **other students will comment on it** as part of a **code review**. You will also be asked to review other students' code.
-
-Find more information about the home assignment [here](https://github.com/Naubody/programming_for_psychologists/blob/main/Home_assignment/Home_assignment.pdf).
+The main assignment of this course will be **writing code for simple data analysis and visualization of magnetic resonance imaging (MRI) data**. You will write this code in your **own time**, along with a **brief statement** about the best practices it follows and how. You will upload this code to **GitHub**, where **other students will comment on it** as part of a **code review**. You will also be asked to review other students' code. Find more information about the home assignment [here](https://github.com/Naubody/programming_for_psychologists/blob/main/Home_assignment/Home_assignment.pdf).
 
 **The home assignment will determine 25% of your grade.**
 
