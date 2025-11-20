@@ -96,13 +96,10 @@ Each module will come with a Quiz with multiple-choice and multiple-answer quest
 
 **The outcome of the Quizzes will determine 50% of your grade.**  
 
-
 ---
 
 ## **How to become an expert P(s)ychologist**  
 This course aims to provide an **overview** of the many aspects that make a **good programmer**, focusing on **typical workflows of research psychologists using Python**.  
-
-<img src="https://github.com/user-attachments/assets/5a125f50-0db8-4181-8cfe-5347f8c9e0a8" alt="Course Image" width="300" height="300"/>
 
 However, learning a new (programming) language takes **practice and time**, more than this course can offer. To **grow beyond the course** and become an expert, check out the following **resources** meant to help you **practice at home**:  
 
@@ -112,7 +109,8 @@ However, learning a new (programming) language takes **practice and time**, more
 - **[Python for Neuroscientists (eLife)](https://elifesciences.org/labs/f779833b/python-for-the-practicing-neuroscientist-an-online-educational-resource)** – A useful resource for practicing neuroscientists.
 - **[Online Quiz]([https://automatetheboringstuff.com/](https://www.w3schools.com/quiztest/quiztest.asp?qtest=PYTHON&v=2779505))** – Test your Python knowledge here!
 
-
 All of these resources are **free and online**.  
+
+<img src="https://github.com/user-attachments/assets/5a125f50-0db8-4181-8cfe-5347f8c9e0a8" alt="Course Image" width="300" height="300"/>
 
 ---
