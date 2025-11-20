@@ -1,14 +1,15 @@
 # Programming for Psychologists 2025
 
 **Course coordinator:** Matthias Nau  
-**Teaching Assistant:** Anna van Harmelen  
+**Teaching Assistants:** Anna van Harmelen, Camilla U. Enwereuzor
+ 
 **Contact:** [m.nau@vu.nl](mailto:m.nau@vu.nl)  
 
 This repository contains the course materials for the course **"Programming for Psychologists"** (P_MPROPSY) at the **Vrije Universiteit Amsterdam**. This 6 EC course is going to teach you your new superpower: **Programming in Python!**  
 
-Over the course of 2 months, you will start thinking like a programmer and learn how to use Python for **experimental design, data analysis, and visualization**. You will get to know many **essential concepts, data structures, and libraries** relevant to research in **cognitive neuroscience**, and develop a solid foundation for further learning.
+Over the course of 2 months, you will start thinking like a programmer and learn how to use Python for **experimental design, data analysis, and visualization**. You will get to know many **essential concepts, data structures, and libraries** relevant to research in Psychology and Neuroscience, and develop a solid foundation for further learning.
 
-In addition, you will learn what it means to **write and share code** in the spirit of **Open Science**, how to **review other people's code**, and how to ensure your research is **reproducible, accessible, and transparent**.  
+In addition, you will learn what it means to **write and share code** in the spirit of **Open Science**, how to **review other people's code**, and how to ensure your research is **rigorous, reproducible, accessible, and transparent**.
 
 <img width="450" height="591" alt="Screenshot 2025-11-20 at 14 07 09" src="https://github.com/user-attachments/assets/bec15545-5d24-4bfd-922d-aa3961701d9e" />
 
@@ -52,14 +53,14 @@ Practicals will focus on **skills**. You will learn how to **write code in Pytho
 - **Practical 5.1:** GitHub  
 - **Practical 5.2:** Copilot & AI-assisted coding  
 
-### **Module 6: Experimental design**  
+### **Module 6: Experiments**  
 - **Lecture 6:** Psychopy  
 - **Practical 6.1:** Build a basic experiment  
 - **Practical 6.2:** Setting up log-files  
 
 ### **Module 7: Course recap**  
 - **Lecture 7:** Recap & Workflow  
-- **Practical 7.1:** Data analysis basics  
+- **Practical 7.1:** Data analysis  
 - **Practical 7.2:** Home assignment  
 
 ### **End of the course**  
@@ -74,19 +75,27 @@ The main assignment of this course will be **writing code for simple data analys
 
 You will write this code in your **own time**, along with a **brief statement** about the best practices it follows and how. You will upload this code to **GitHub**, where **other students will comment on it** as part of a **code review**. You will also be asked to review other students' code.  
 
-Find more information about the home assignment [here](LINKmissing).
+Find more information about the home assignment [here](https://github.com/Naubody/programming_for_psychologists/blob/main/Home_assignment/Home_assignment.pdf).
 
-**The home assignment will determine 60% of your grade.**  
+**The home assignment will determine 25% of your grade.**  
 
 ---
 
-## **Exam: Code review**  
+## **Exam**  
 At the end of the course, you will take an **exam**, where you will:  
 - Receive **code snippets** and answer questions about them  
 - Answer **conceptual questions** based on lecture and practical content  
 - Solve a mix of **open-ended and multiple-choice questions**
 
-**The outcome of the exam will determine 40% of your grade.**  
+**The outcome of the exam will determine 50% of your grade.**  
+
+---
+
+## **Quizzes**  
+Each module will come with a Quiz with multiple-choice and multiple-answer questions about the content of the week's lecture and practicals.
+
+**The outcome of the Quizzes will determine 50% of your grade.**  
+
 
 ---
 
@@ -100,7 +109,9 @@ However, learning a new (programming) language takes **practice and time**, more
 - **[Automate the Boring Stuff](https://automatetheboringstuff.com/)** – Great for beginners who want to learn Python basics.  
 - **[The Good Research Handbook](https://goodresearch.dev/)** – Covers coding best practices with a focus on research.  
 - **[Harvard CS50 Python Course](https://cs50.harvard.edu/python/)** – A more comprehensive Python course.  
-- **[Python for Neuroscientists (eLife)](https://elifesciences.org/labs/f779833b/python-for-the-practicing-neuroscientist-an-online-educational-resource)** – A useful resource for practicing neuroscientists.  
+- **[Python for Neuroscientists (eLife)](https://elifesciences.org/labs/f779833b/python-for-the-practicing-neuroscientist-an-online-educational-resource)** – A useful resource for practicing neuroscientists.
+- **[Online Quiz]([https://automatetheboringstuff.com/](https://www.w3schools.com/quiztest/quiztest.asp?qtest=PYTHON&v=2779505))** – Test your Python knowledge here!
+
 
 All of these resources are **free and online**.  
 
