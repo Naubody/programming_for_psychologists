@@ -70,31 +70,33 @@ Practicals will focus on **skills**. You will learn how to **write code in Pytho
 
 ---
 
-## **Home assignment**  
-The main assignment of this course will be **writing code for simple data analysis and visualization of magnetic resonance imaging (MRI) data**.  
+## **Grading**
 
-You will write this code in your **own time**, along with a **brief statement** about the best practices it follows and how. You will upload this code to **GitHub**, where **other students will comment on it** as part of a **code review**. You will also be asked to review other students' code.  
+### **Home assignment**  
+The main assignment of this course will be **writing code for simple data analysis and visualization of magnetic resonance imaging (MRI) data**.
+
+You will write this code in your **own time**, along with a **brief statement** about the best practices it follows and how. You will upload this code to **GitHub**, where **other students will comment on it** as part of a **code review**. You will also be asked to review other students' code.
 
 Find more information about the home assignment [here](https://github.com/Naubody/programming_for_psychologists/blob/main/Home_assignment/Home_assignment.pdf).
 
-**The home assignment will determine 25% of your grade.**  
+**The home assignment will determine 25% of your grade.**
 
 ---
 
-## **Exam**  
+### **Exam**  
 At the end of the course, you will take an **exam**, where you will:  
 - Receive **code snippets** and answer questions about them  
 - Answer **conceptual questions** based on lecture and practical content  
 - Solve a mix of **open-ended and multiple-choice questions**
 
-**The outcome of the exam will determine 50% of your grade.**  
+**The outcome of the exam will determine 50% of your grade.**
 
 ---
 
-## **Quizzes**  
-Each module will come with a Quiz with multiple-choice and multiple-answer questions about the content of the week's lecture and practicals.
+### **Quizzes**  
+Each module will come with a quiz containing multiple-choice and multiple-answer questions about the week’s lecture and practicals.
 
-**The outcome of the Quizzes will determine 50% of your grade.**  
+**The outcome of the quizzes will determine 25% of your grade.**
 
 ---
 
