@@ -1,10 +1,10 @@
 # Programming for Psychologists 2025
 
-**Course coordinator:** [Matthias Nau ](https://matthiasnau.com/)
+**Course coordinator:** [Matthias Nau ](https://matthiasnau.com/), **Contact:** [m.nau@vu.nl](mailto:m.nau@vu.nl)  
 
 **Teaching Assistants:** Anna van Harmelen, Camilla U. Enwereuzor
  
-**Contact:** [m.nau@vu.nl](mailto:m.nau@vu.nl)  
+
 
 This repository contains the course materials for the course **"Programming for Psychologists"** (P_MPROPSY) at the **Vrije Universiteit Amsterdam**. This 6 EC course is going to teach you your new superpower: **Programming in Python!**  
 
