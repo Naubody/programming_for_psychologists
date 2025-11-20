@@ -1,4 +1,4 @@
-# Programming for Psychologists 2024  
+# Programming for Psychologists 2025
 
 **Course coordinator:** Matthias Nau  
 **Teaching Assistant:** Anna van Harmelen  
