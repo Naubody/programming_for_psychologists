@@ -107,7 +107,7 @@ However, learning a new (programming) language takes **practice and time**, more
 - **[The Good Research Handbook](https://goodresearch.dev/)** – Covers coding best practices with a focus on research.  
 - **[Harvard CS50 Python Course](https://cs50.harvard.edu/python/)** – A more comprehensive Python course.  
 - **[Python for Neuroscientists (eLife)](https://elifesciences.org/labs/f779833b/python-for-the-practicing-neuroscientist-an-online-educational-resource)** – A useful resource for practicing neuroscientists.
-- **[Online Quiz]([https://automatetheboringstuff.com/](https://www.w3schools.com/quiztest/quiztest.asp?qtest=PYTHON&v=2779505))** – Test your Python knowledge here!
+- **[Online Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=PYTHON&v=2779505)** – Test your Python knowledge here!
 
 All of these resources are **free and online**.  
 
