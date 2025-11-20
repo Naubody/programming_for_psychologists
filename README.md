@@ -11,7 +11,7 @@ Over the course of 2 months, you will start thinking like a programmer and learn
 
 In addition, you will learn what it means to **write and share code** in the spirit of **Open Science**, how to **review other people's code**, and how to ensure your research is **rigorous, reproducible, accessible, and transparent**.
 
-<img width="450" height="591" alt="Screenshot 2025-11-20 at 14 07 09" src="https://github.com/user-attachments/assets/bec15545-5d24-4bfd-922d-aa3961701d9e" />
+<img width="360" height="473" alt="Screenshot 2025-11-20 at 14 07 09" src="https://github.com/user-attachments/assets/bec15545-5d24-4bfd-922d-aa3961701d9e" />
 
 ---
 
