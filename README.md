@@ -18,10 +18,10 @@ In addition, you will learn what it means to **write and share code** in the spi
 ## **Course structure**  
 The course is organized into **7 modules**, each comprising a **lecture** (1.5h) and **two practicals** (~2.5h each). Each module will focus on a different topic.
 
-## **Lectures**  
+### **Lectures**  
 Lectures will focus on **conceptual understanding**. You will learn **why programming is important for psychologists**, what **Python** is, and how it can support your research. We will further discuss **coding best practices** and principles of **Open Science**.  
 
-## **Practicals**  
+### **Practicals**  
 Practicals will focus on **skills**. You will learn how to **write code in Python** to perform **basic operations, design simple experiments, and analyze and visualize data**. Moreover, you will learn how to use **GitHub** for version control and sharing code.  
 
 ---
