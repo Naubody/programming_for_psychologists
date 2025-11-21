@@ -41,7 +41,7 @@ Practicals will focus on **skills**. You will learn how to **write code in Pytho
 ### **Module 3: Python advanced**  
 - **Lecture 3:** [Functions, data, debugging](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_3_Python_advanced/Lecture_3_Python_advanced.pdf)
 - **Practical 3.1:** [More datatypes and loops, nesting, f-strings, PEP-8](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_3_Python_advanced/Practical_3.1.ipynb)  
-- **Practical 3.2:** [Write your own function & ASCII Art](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_3_Python_advanced/Practical_3.2.ipynb)
+- **Practical 3.2:** [Functions & ASCII Art](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_3_Python_advanced/Practical_3.2.ipynb)
 
 ### **Module 4: Data visualization**  
 - **Lecture 4:** [DataViz basics, Matplotlib, Seaborn](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_4_Data_visualization/Lecture_4_DataViz.pdf)
