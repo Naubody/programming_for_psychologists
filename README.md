@@ -102,8 +102,8 @@ This course aims to provide an **overview** of the many aspects that make a **go
 
 However, learning a new (programming) language takes **practice and time**, more than this course can offer. To **grow beyond the course** and become an expert, check out the following **resources** meant to help you **practice at home**:  
 
-- **[Ten principles for better coding in cognitive neuroscience](https://www.nature.com/articles/s44271-025-00236-3)** – Coding best practices for different levels of experience, by Roth et al.
-- **[Ten tips for AI-assisted coding](https://arxiv.org/abs/2510.22254)** – Helpful tips for AI-assisted coding, by Bridgeford et al.
+- **[Ten principles for better coding](https://www.nature.com/articles/s44271-025-00236-3)** – Coding best practices for different levels of experience, by Roth et al.
+- **[Ten tips for AI-assisted coding](https://arxiv.org/abs/2510.22254)** – How to use (or not to use) LLMs in your programming, by Bridgeford et al.
 - **[The Good Research Handbook](https://goodresearch.dev/)** – Coding best practices with a focus on research, by Patrick Mineault. 
 - **[Automate the Boring Stuff](https://automatetheboringstuff.com/)** – Fantastic book for beginners who want to learn Python basics, by Al Sweigart.  
 - **[Python for Neuroscientists](https://elifesciences.org/labs/f779833b/python-for-the-practicing-neuroscientist-an-online-educational-resource)** – Useful resource for practicing neuroscientists, by Schlafly et al.
