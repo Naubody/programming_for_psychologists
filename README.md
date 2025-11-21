@@ -110,6 +110,7 @@ However, learning a new (programming) language takes **practice and time**, more
 - **[Version Control Book](https://lennartwittkuhn.com/version-control-book/)** – Online book on version control with Git for researchers, by Lennart Wittkuhn.
 - **[Dartmouth programming course](https://github.com/ContextLab/cs-for-psych)** – Python course for Psych students, by Jeremy Manning. 
 - **[Harvard CS50 Python Course](https://cs50.harvard.edu/python/)** – Popular and comprehensive Python course.
+- **[Super Science Bros.](https://psychopyhelp.com/supersciencebros/)** – Fun video game coded entirely in PsychoPy.
 - **[Online Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=PYTHON&v=2779505)** – Test your Python knowledge here!
 
 
