@@ -102,15 +102,16 @@ This course aims to provide an **overview** of the many aspects that make a **go
 
 However, learning a new (programming) language takes **practice and time**, more than this course can offer. To **grow beyond the course** and become an expert, check out the following **resources** meant to help you **practice at home**:  
 
-- **[Ten principles for better coding in cognitive neuroscience](https://www.nature.com/articles/s44271-025-00236-3)** – Great overview of coding best practices tailored to different levels of programming experience, by Roth et al.
+- **[Ten principles for better coding in cognitive neuroscience](https://www.nature.com/articles/s44271-025-00236-3)** – Coding best practices tailored to different levels of experience, by Roth et al.
 - **[Ten tips for AI-assisted coding](https://arxiv.org/abs/2510.22254)** – Helpful tips for AI-assisted coding, by Bridgeford et al.
 - **[The Good Research Handbook](https://goodresearch.dev/)** – Covers coding best practices with a focus on research, by Patrick Mineault. 
 - **[Automate the Boring Stuff](https://automatetheboringstuff.com/)** – Fantastic book for beginners who want to learn Python basics, by Al Sweigart.  
 - **[Python for Neuroscientists (eLife)](https://elifesciences.org/labs/f779833b/python-for-the-practicing-neuroscientist-an-online-educational-resource)** – A useful resource for practicing neuroscientists, by Schlafly et al.
 - **[Version Control Book](https://lennartwittkuhn.com/version-control-book/)** – Great online book on version control with Git for researchers, by Lennart Wittkuhn.
-- **[Online Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=PYTHON&v=2779505)** – Test your Python knowledge here!
 - **[Dartmouth programming for psychologists course](https://github.com/ContextLab/cs-for-psych)** – Great Python course for Psych students by Jeremy Manning. 
 - **[Harvard CS50 Python Course](https://cs50.harvard.edu/python/)** – A comprehensive Python course.
+- **[Online Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=PYTHON&v=2779505)** – Test your Python knowledge here!
+
 
 
 All of these resources are **free and online**.  
