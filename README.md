@@ -65,7 +65,7 @@ Practicals will focus on **skills**. You will learn how to **write code in Pytho
 - **Practical 7.2:** [Home assignment  ](https://github.com/Naubody/programming_for_psychologists/blob/main/Home_assignment/Home_assignment.pdf)
 
 ### **End of the course**  
-- **Q&A session **  
+- **Q&A session**  
 - **Home assignment**  
 - **Exam**
 
