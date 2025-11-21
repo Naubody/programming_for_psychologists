@@ -31,16 +31,16 @@ Practicals will focus on **skills**. You will learn how to **write code in Pytho
 
 ### **Module 1: Introduction**  
 - **Lecture 1:** [Welcome](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_1_Welcome/Lecture_1_Introduction.pdf)  
-- **Practical 1.1:** [Programming Mindset ](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_1_Welcome/Practical_1.1_Mindset.pdf) 
-- **Practical 1.2:** [Setup](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_1_Welcome/Practical_1.2_Setup.pdf)  
+- **Practical 1.1:** [Programming mindset ](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_1_Welcome/Practical_1.1_Mindset.pdf) 
+- **Practical 1.2:** [Setup & Software](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_1_Welcome/Practical_1.2_Setup.pdf)  
 
 ### **Module 2: Python**  
 - **Lecture 2:** [Introduction to Python ](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_2_Python_basics/Lecture_2.pdf) 
 - **Practical 2.1:** [Basic expressions, datatypes, loops](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_2_Python_basics/Practical_2.1.ipynb) 
-- **Practical 2.2:** [Libraries, conditionals, Debugging](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_2_Python_basics/Practical_2.2.ipynb)
+- **Practical 2.2:** [Libraries, conditionals, debugging](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_2_Python_basics/Practical_2.2.ipynb)
 
 ### **Module 3: Python advanced**  
-- **Lecture 3:** [Functions, Data, Debugging](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_3_Python_advanced/Lecture_3_Python_advanced.pdf)
+- **Lecture 3:** [Functions, data, debugging](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_3_Python_advanced/Lecture_3_Python_advanced.pdf)
 - **Practical 3.1:** [More datatypes and loops, nesting, f-strings, PEP-8](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_3_Python_advanced/Practical_3.1.ipynb)  
 - **Practical 3.2:** [Write your own function & ASCII Art](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_3_Python_advanced/Practical_3.2.ipynb)
 
@@ -49,7 +49,7 @@ Practicals will focus on **skills**. You will learn how to **write code in Pytho
 - **Practical 4.1:** [Matplotlib](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_4_Data_visualization/Practical_4.1.ipynb)
 - **Practical 4.2:** [Plot your own data](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_4_Data_visualization/Practical_4.2.ipynb) 
 
-### **Module 5: Open Science & Collaboration**  
+### **Module 5: Open code & Collaboration**  
 - **Lecture 5:** [Git & GitHub](https://github.com/Naubody/programming_for_psychologists/tree/main/Module_5_Open_code_and_collaboration)
 - **Practical 5.1:** GitHub & Copilot (live demo only)
 - **Practical 5.2:** AI-assisted coding (coming soon)
