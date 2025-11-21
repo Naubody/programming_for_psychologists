@@ -30,42 +30,42 @@ Practicals will focus on **skills**. You will learn how to **write code in Pytho
 ## **Course overview**  
 
 ### **Module 1: Introduction**  
-- **Lecture 1:** Welcome  
-- **Practical 1.1:** Programming Mindset  
-- **Practical 1.2:** Setup  
+- **Lecture 1:** [Welcome](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_1_Welcome/Lecture_1_Introduction.pdf)  
+- **Practical 1.1:** [Programming Mindset ](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_1_Welcome/Practical_1.1_Mindset.pdf) 
+- **Practical 1.2:** [Setup](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_1_Welcome/Practical_1.2_Setup.pdf)  
 
 ### **Module 2: Python**  
-- **Lecture 2:** Introduction to Python  
-- **Practical 2.1:** Python basics  
-- **Practical 2.2:** Debugging & more basics
+- **Lecture 2:** [Introduction to Python ](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_2_Python_basics/Lecture_2.pdf) 
+- **Practical 2.1:** [Python basics ](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_2_Python_basics/Practical_2.1.ipynb) 
+- **Practical 2.2:** [Debugging & more basics](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_2_Python_basics/Practical_2.2.ipynb)
 
 ### **Module 3: Python advanced**  
-- **Lecture 3:** Functions, Data, Debugging
-- **Practical 3.1:** Python advanced  
-- **Practical 3.2:** Functions & ASCII Art
+- **Lecture 3:** [Functions, Data, Debugging](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_3_Python_advanced/Lecture_3_Python_advanced.pdf)
+- **Practical 3.1:** [Python advanced](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_3_Python_advanced/Practical_3.1.ipynb)  
+- **Practical 3.2:** [Nesting & ASCII Art](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_3_Python_advanced/Practical_3.2.ipynb)
 
 ### **Module 4: Data visualization**  
-- **Lecture 4:** DataViz basics, Matplotlib, Seaborn
-- **Practical 4.1:** Matplotlib  
-- **Practical 4.2:** Plot your own data  
+- **Lecture 4:** [DataViz basics, Matplotlib, Seaborn](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_4_Data_visualization/Lecture_4_DataViz.pdf)
+- **Practical 4.1:** [Matplotlib  ](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_4_Data_visualization/Practical_4.1.ipynb)
+- **Practical 4.2:** [Plot your own data ](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_4_Data_visualization/Practical_4.2.ipynb) 
 
 ### **Module 5: Open Science & Collaboration**  
-- **Lecture 5:** Git & GitHub  
-- **Practical 5.1:** GitHub & Copilot
-- **Practical 5.2:** AI-assisted coding  
+- **Lecture 5:** [Git & GitHub  ](https://github.com/Naubody/programming_for_psychologists/tree/main/Module_5_Open_code_and_collaboration)
+- **Practical 5.1:** GitHub & Copilot (live practice only)
+- **Practical 5.2:** AI-assisted coding
 
 ### **Module 6: Experiments**  
-- **Lecture 6:** Psychopy  
-- **Practical 6.1:** Build a basic experiment
-- **Practical 6.2:** Experimental log files
+- **Lecture 6:** [Psychopy](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_6_Experiments/Lecture_6_PsychoPy.pdf)
+- **Practical 6.1:** [Build a basic experiment](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_6_Experiments/Practical_6.1.ipynb)
+- **Practical 6.2:** [Experimental log files](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_6_Experiments/Practical_6.2.ipynb)
 
 ### **Module 7: Course recap**  
-- **Lecture 7:** Recap & Typical Workflow  
-- **Practical 7.1:** Data analysis
-- **Practical 7.2:** Home assignment  
+- **Lecture 7:** [Recap & Workflow ](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_7_Recap_and_workflow/Lecture_7_Recap_and_workflow.pdf) 
+- **Practical 7.1:** [Data analysis](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_7_Recap_and_workflow/Practical_7.1.ipynb)
+- **Practical 7.2:** [Home assignment  ](https://github.com/Naubody/programming_for_psychologists/blob/main/Home_assignment/Home_assignment.pdf)
 
 ### **End of the course**  
-- **Q&A session**  
+- **Q&A session **  
 - **Home assignment**  
 - **Exam**
 
