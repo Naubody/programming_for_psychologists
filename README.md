@@ -36,33 +36,33 @@ Practicals will focus on **skills**. You will learn how to **write code in Pytho
 
 ### **Module 2: Python**  
 - **Lecture 2:** [Introduction to Python ](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_2_Python_basics/Lecture_2.pdf) 
-- **Practical 2.1:** [Python basics ](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_2_Python_basics/Practical_2.1.ipynb) 
-- **Practical 2.2:** [Debugging & more basics](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_2_Python_basics/Practical_2.2.ipynb)
+- **Practical 2.1:** [Basic expressions, datatypes, loops](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_2_Python_basics/Practical_2.1.ipynb) 
+- **Practical 2.2:** [Libraries, conditionals, Debugging](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_2_Python_basics/Practical_2.2.ipynb)
 
 ### **Module 3: Python advanced**  
 - **Lecture 3:** [Functions, Data, Debugging](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_3_Python_advanced/Lecture_3_Python_advanced.pdf)
-- **Practical 3.1:** [Python advanced](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_3_Python_advanced/Practical_3.1.ipynb)  
-- **Practical 3.2:** [Nesting & ASCII Art](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_3_Python_advanced/Practical_3.2.ipynb)
+- **Practical 3.1:** [More datatypes and loops, nesting, f-strings, PEP-8](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_3_Python_advanced/Practical_3.1.ipynb)  
+- **Practical 3.2:** [Write your own function & ASCII Art](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_3_Python_advanced/Practical_3.2.ipynb)
 
 ### **Module 4: Data visualization**  
 - **Lecture 4:** [DataViz basics, Matplotlib, Seaborn](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_4_Data_visualization/Lecture_4_DataViz.pdf)
-- **Practical 4.1:** [Matplotlib  ](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_4_Data_visualization/Practical_4.1.ipynb)
-- **Practical 4.2:** [Plot your own data ](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_4_Data_visualization/Practical_4.2.ipynb) 
+- **Practical 4.1:** [Matplotlib](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_4_Data_visualization/Practical_4.1.ipynb)
+- **Practical 4.2:** [Plot your own data](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_4_Data_visualization/Practical_4.2.ipynb) 
 
 ### **Module 5: Open Science & Collaboration**  
-- **Lecture 5:** [Git & GitHub  ](https://github.com/Naubody/programming_for_psychologists/tree/main/Module_5_Open_code_and_collaboration)
-- **Practical 5.1:** GitHub & Copilot (live practice only)
-- **Practical 5.2:** AI-assisted coding
+- **Lecture 5:** [Git & GitHub](https://github.com/Naubody/programming_for_psychologists/tree/main/Module_5_Open_code_and_collaboration)
+- **Practical 5.1:** GitHub & Copilot (live demo only)
+- **Practical 5.2:** AI-assisted coding (coming soon)
 
 ### **Module 6: Experiments**  
 - **Lecture 6:** [Psychopy](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_6_Experiments/Lecture_6_PsychoPy.pdf)
-- **Practical 6.1:** [Build a basic experiment](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_6_Experiments/Practical_6.1.ipynb)
-- **Practical 6.2:** [Experimental log files](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_6_Experiments/Practical_6.2.ipynb)
+- **Practical 6.1:** [Build your own experiment](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_6_Experiments/Practical_6.1.ipynb)
+- **Practical 6.2:** [How to design a log file](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_6_Experiments/Practical_6.2.ipynb)
 
 ### **Module 7: Course recap**  
-- **Lecture 7:** [Recap & Workflow ](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_7_Recap_and_workflow/Lecture_7_Recap_and_workflow.pdf) 
+- **Lecture 7:** [Recap & Workflow](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_7_Recap_and_workflow/Lecture_7_Recap_and_workflow.pdf) 
 - **Practical 7.1:** [Data analysis](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_7_Recap_and_workflow/Practical_7.1.ipynb)
-- **Practical 7.2:** [Home assignment  ](https://github.com/Naubody/programming_for_psychologists/blob/main/Home_assignment/Home_assignment.pdf)
+- **Practical 7.2:** [Home assignment](https://github.com/Naubody/programming_for_psychologists/blob/main/Home_assignment/Home_assignment.pdf)
 
 ### **End of the course**  
 - **Q&A session**  
@@ -110,10 +110,8 @@ However, learning a new (programming) language takes **practice and time**, more
 - **[Version Control Book](https://lennartwittkuhn.com/version-control-book/)** – Online book on version control with Git for researchers, by Lennart Wittkuhn.
 - **[Dartmouth programming course](https://github.com/ContextLab/cs-for-psych)** – Python course for Psych students, by Jeremy Manning. 
 - **[Harvard CS50 Python Course](https://cs50.harvard.edu/python/)** – Popular and comprehensive Python course.
-- **[Super Science Bros.](https://psychopyhelp.com/supersciencebros/)** – Fun video game coded entirely in PsychoPy.
+- **[Super Science Bros.](https://psychopyhelp.com/supersciencebros/)** – Fun video game coded entirely in PsychoPy, by Jason Ozubko.
 - **[Online Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=PYTHON&v=2779505)** – Test your Python knowledge here!
-
-
 
 All of these resources are **free and online**.  
 
