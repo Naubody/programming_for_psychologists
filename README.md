@@ -5,7 +5,7 @@
 **Teaching Assistants:** [Anna van Harmelen](https://anna.vanharmelen.me/), [Camilla U. Enwereuzor](https://research.vu.nl/en/persons/camilla-ucheoma-enwereuzor/)
 
 
-This repository contains the course materials for the course **"Programming for Psychologists"** (P_MPROPSY) at the **Vrije Universiteit Amsterdam**. This 6 EC course is going to teach you your new superpower: **Programming in Python!**  
+This repository contains the course materials for the course **"Programming for Psychologists"** (P_MPROPSY) at the **[Vrije Universiteit Amsterdam](https://research.vu.nl/en/courses/programming-for-psychologists-5/)**. This 6 EC course is going to teach you your new superpower: **Programming in Python!**  
 
 Over the course of 2 months, you will start thinking like a programmer and learn how to use Python for **experimental design, data analysis, and visualization**. You will get to know many **essential concepts, data structures, and libraries** relevant to research in Psychology and Neuroscience, and develop a solid foundation for further learning.
 
