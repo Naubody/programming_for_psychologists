@@ -96,10 +96,8 @@ Each module will come with a quiz containing multiple-choice and multiple-answer
 
 ---
 
-## **How to become an expert P(s)ychologist**  
-This course aims to provide an **overview** of the many aspects that make a **good programmer**, focusing on **typical workflows of research psychologists using Python**.  
-
-However, learning a new (programming) language takes **practice and time**, more than this course can offer. To **grow beyond the course** and become an expert, check out the following **resources** meant to help you **practice at home**:  
+## **How to become an expert P(s)ychologist**
+However, learning a new (programming) language takes **practice and time**, more than this course can offer. To **grow beyond the course** and become an expert, check out the following **open resources** meant to help you **practice at home**:  
 
 - **[Ten principles for better coding](https://www.nature.com/articles/s44271-025-00236-3)** – Coding best practices for different levels of experience, by Roth et al.
 - **[Ten tips for AI-assisted coding](https://arxiv.org/abs/2510.22254)** – How to use (or not to use) LLMs in your programming, by Bridgeford et al.
@@ -111,8 +109,6 @@ However, learning a new (programming) language takes **practice and time**, more
 - **[Harvard CS50 Python Course](https://cs50.harvard.edu/python/)** – Popular and comprehensive Python course.
 - **[Super Science Bros.](https://psychopyhelp.com/supersciencebros/)** – Fun video game coded entirely in PsychoPy, by Jason Ozubko.
 - **[Online Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=PYTHON&v=2779505)** – Test your Python knowledge here!
-
-All of these resources are **free and online**.  
 
 <img src="https://github.com/user-attachments/assets/5a125f50-0db8-4181-8cfe-5347f8c9e0a8" alt="Course Image" width="300" height="300"/>
 
