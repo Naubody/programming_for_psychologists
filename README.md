@@ -117,3 +117,6 @@ All of these resources are **free and online**.
 <img src="https://github.com/user-attachments/assets/5a125f50-0db8-4181-8cfe-5347f8c9e0a8" alt="Course Image" width="300" height="300"/>
 
 ---
+
+## **Acknowledgements** 
+Thank you to Anna van Harmelen for her immense help in crafting the practical notebooks, and to Camilla U. Enwereuzor for helping to keep them up to date. I also thank David Collien for insightful discussions on programming mindset.
