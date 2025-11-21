@@ -51,7 +51,7 @@ Practicals will focus on **skills**. You will learn how to **write code in Pytho
 ### **Module 5: Open code & Collaboration**  
 - **Lecture 5:** [Git & GitHub](https://github.com/Naubody/programming_for_psychologists/tree/main/Module_5_Open_code_and_collaboration)
 - **Practical 5.1:** GitHub & Copilot (live demo only)
-- **Practical 5.2:** AI-assisted coding (coming soon)
+- **Practical 5.2:** [AI-assisted coding](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_5_Open_code_and_collaboration/Practical_5.2_AI_assisted_coding.pdf)
 
 ### **Module 6: Experiments**  
 - **Lecture 6:** [Psychopy](https://github.com/Naubody/programming_for_psychologists/blob/main/Module_6_Experiments/Lecture_6_PsychoPy.pdf)
