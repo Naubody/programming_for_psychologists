@@ -1,6 +1,6 @@
 # Programming for Psychologists 2025
 
-**Course coordinator:** [Matthias Nau ](https://matthiasnau.com/), **Contact:** [m.nau@vu.nl](mailto:m.nau@vu.nl)  
+**Course coordinator:** [Matthias Nau ](https://matthiasnau.com/), **Contact:** m.nau[at]vu.nl
 
 **Teaching Assistants:** [Anna van Harmelen](https://anna.vanharmelen.me/), [Camilla U. Enwereuzor](https://research.vu.nl/en/persons/camilla-ucheoma-enwereuzor/)
 
